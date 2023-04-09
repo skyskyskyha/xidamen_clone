@@ -255,6 +255,7 @@
         </div>
     </div><!-- bloc-5 END -->
 </div>
+<div id="footerContent"></div>
 <!-- 系统关键js(所有自建模板必须引用) -->
 <script type="text/javascript">var is_mobile_cms = '';</script>
 <script src="https://xidamen.com/api/language/zh-cn/lang.js" type="text/javascript"></script>
@@ -262,6 +263,11 @@
 <script src="https://xidamen.com/static/assets/js/cms.js" type="text/javascript"></script>
 <!-- 系统关键js结束 -->
 <!-- Main container END -->
+<script type="text/javascript" defer>
+    $(document).ready(function () {
+        $("#footerContent").load("../../footer/footer_English_second.html");
+    });
+</script>
 <script src="https://xidamen.com/static/js/bootstrap.bundle.min.js"></script>
 <script src="https://xidamen.com/static/js/blocs.min.js"></script>
 <script src="https://xidamen.com/static/js/jqBootstrapValidation.js"></script>
