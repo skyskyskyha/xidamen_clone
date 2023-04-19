@@ -1,0 +1,8 @@
+.col-md-1-8{
+    min-height: 1px;
+    padding-left: 12px;
+    padding-right: 12px;
+    position: relative;
+    width: 12.5%;
+    float: left;
+}
