@@ -1,0 +1,18 @@
+.title{
+  font-size: 30px;
+  line-height: 35px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  font-family: "Yanone Kaffeesatz", Arial, Tahoma, sans-serif;
+  color: #717171;
+  margin-bottom: 15px;
+}
+.word{
+  font-size: 21px;
+  line-height: 35px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  font-family: "Yanone Kaffeesatz", Arial, Tahoma, sans-serif;
+  color: #717171;
+  /*margin-bottom: 15px;*/
+}
